@@ -9,3 +9,6 @@ title () {
 }
 
 title
+
+number=$(( $RANDOM % 100 + 1 ))
+
