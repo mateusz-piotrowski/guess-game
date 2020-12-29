@@ -8,3 +8,4 @@
 - heading() function
 - guessing algorithm
 - "Too low" comment
+- "Too high" comment
