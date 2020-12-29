@@ -7,3 +7,4 @@
 - title() funcion
 - heading() function
 - guessing algorithm
+- "Too low" comment
