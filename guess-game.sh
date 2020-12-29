@@ -17,3 +17,12 @@ title
 number=$(( $RANDOM % 100 + 1 ))
 
 heading "Guess a number between 1 and 100 ..."
+
+guess=0
+
+while [ "0$guess" -ne $number ] ; do
+        read guess
+done
+
+echo "That's right!"
+exit 0

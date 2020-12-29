@@ -6,3 +6,4 @@
 
 - title() funcion
 - heading() function
+- guessing algorithm
