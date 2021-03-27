@@ -9,7 +9,7 @@ title () {
 }
 
 heading () {
-  printf "\n\n# $1\n\n"
+  printf "\n# $1\n"
 }
 
 title
