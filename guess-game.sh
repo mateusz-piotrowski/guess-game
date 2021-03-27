@@ -23,7 +23,7 @@ guess=0
 while [ "0$guess" -ne $number ] ; do
         read guess
         [ "0$guess" -lt $number ] && echo "Too low. Try again:"
-        [ "0$guess" -gt $number ] && echo "Too high."
+        [ "0$guess" -gt $number ] && echo "Too high. Try again:"
 done
 
 echo "That's right!"
