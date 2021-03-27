@@ -4,6 +4,7 @@
 
 **Update :**
 - heading() function
+- "Too low" comment
 
 
 ## [0.0.1] (December 29 2020)
